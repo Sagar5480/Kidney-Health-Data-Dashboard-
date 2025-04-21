@@ -1,6 +1,7 @@
 # Kidney Health Data Dashboard (Power BI)
 
-![Kidney Dashboard](./Screenshot%202025-04-21%20124053.png)
+![Uploading Kidney.png…]()
+
 
 ## 📊 Overview
 
@@ -34,6 +35,9 @@ This Power BI dashboard provides an interactive analysis of a kidney health data
 - Visual flags for potential at-risk patients based on diabetes and other comorbidities.
 
 ---
+## 👨‍⚕️ Developed For
 
-## 🗂️ File Structure
+- Healthcare data analysis
+- Early detection of kidney disorders
+- Research and educational purposes
 
